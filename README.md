@@ -1,4 +1,4 @@
-# MiST 4610 21482 Group 5 Project 1
+# MIST 4610 21482 Group 5 Project 1
 ## Team Members
 Caleb Rivers  
 Catherine Lusick  
